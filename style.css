@@ -1,0 +1,32 @@
+.name-heroes {
+			padding: 0px;
+			margin: 0px;
+			margin-left: 100px;
+			margin-bottom: 0px;
+			height: 0px;
+			overflow: visible;
+			font-family: Arial;
+			font-size: 100px;
+		}
+.downname {
+			padding: 0px;
+			margin: 100px;
+			margin-left: 100px;
+			margin-bottom: 70px;
+			height: 20px;
+			overflow: visible;
+			font-family: Arial;
+			font-size: 20px;
+			color:#87CEFA;
+		}
+#downname2{
+			padding: 0px;
+			margin: 100px;
+			margin-left: 100px;
+			margin-bottom: 70px;
+			height: 20px;
+			overflow: visible;
+			font-family: Arial;
+			font-size: 100px;
+			color:#87CEFA;
+		}
